@@ -1,3 +1,4 @@
+--COMANDOS DDL DML
 --crear directorios
 xp_create_subdir 'd:\colegio'
 go
